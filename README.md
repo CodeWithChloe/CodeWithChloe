@@ -7,10 +7,10 @@ I combine editorial expertise with solid technical skills and a collaborative mi
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Back-end**: Ruby on Rails, PostgreSQL, Test-Driven Development (TDD), REST APIs, WebSocket, Elasticsearch, RAG (Retrieval-Augmented Generation)  
-**Front-end**: JavaScript, HTML, CSS, Stimulus, Bootstrap, AJAX  
+**Back-end**: Ruby on Rails, PostgreSQL, REST APIs, WebSocket, Elasticsearch, RAG (Retrieval-Augmented Generation), Test-Driven Development (TDD)
+**Front-end**: JavaScript, HTML, CSS, Stimulus, Bootstrap, AJAX, Test-Driven Development (TDD),
 **DevOps & Tools**: Git, GitHub, Heroku, Figma  
 **Workflow**: Agile methodologies, collaborative development
 
