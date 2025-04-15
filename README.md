@@ -1,3 +1,4 @@
-Hi, welcome on my GitHub profile! My name is Chloé. I am a multilingual professional with six years of experience in digital publishing. I recently transitioned into full-stack Web development through an intensive bootcamp at Le Wagon Paris, blending editorial expertise with technical skills and cross-functional collaboration. 
+**Hi there! 👋** 
+I'm a multilingual professional with 6 years of experience in digital publishing, recently transitioned into full-stack web development after completing an intensive bootcamp at Le Wagon Paris.
 
-I am eager to leverage my strong communication skills, constant drive for learning, and solution-oriented approach in a full-Stack developer role. Looking forward to joining a team where I can grow and build impactful digital solutions.
+I combine editorial know-how with solid technical skills and a collaborative mindset. Passionate about learning and problem-solving, I'm looking to join a team where I can grow as a developer and contribute to building meaningful digital products.
