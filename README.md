@@ -16,5 +16,10 @@ I combine editorial know-how with solid technical skills and a collaborative min
 
 ---
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/chloé-cosson/)
+### ✨ Hobbies  
+🏃‍♀️ Running 🥾 Hiking 🎬 Cinema 📚 Books
+
+---
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/chloé-cosson/)
 
