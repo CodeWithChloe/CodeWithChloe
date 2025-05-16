@@ -17,7 +17,7 @@ I combine editorial expertise with solid technical skills and a collaborative mi
 ---
 
 ### ✨ Hobbies  
-🏃‍♀️ Running 🥾 Hiking 🎬 Cinema 📚 Books
+🏃‍♀️ Running 🥾 Hiking 🎬 Cinema 📚 Literature
 
 ---
 
